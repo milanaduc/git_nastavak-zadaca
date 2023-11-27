@@ -1,0 +1,13 @@
+Kreirati novi repozitorij na GitHubu (postaviti samo ime, ostalo su sve defaultne postavke)
+Klonirati novokreirani repo
+unutar foldera projekta dodati .gitignore i u njemu navesti node_modules
+pokrenuti naredbu npm init (sve ostaviti defaultno)
+dodati index.html i script.js file
+pushati promjene na main/master branch
+kreirati novi branch iz main/master brancha s nazivom feat/bootstrap
+na novom branchu instalirati bootstrap uz pomoc npm-a
+prouciti bootstrap dokumentaciju i dodati par elemenata po zelji (stiliziranih uz bootstrap)
+pushati promjene na feat/bootstrap
+mergati feat/bootstrap u glavni branch i pushati na udaljeni repozitorij (main ili master)
+u thread ove objave zalijepiti link do vaseg repozitorija
+(edited)
